@@ -7,7 +7,7 @@ Este repositório contém atividades práticas relacionadas a quatro importantes
 - 📤 Pilhas (Stacks)
 - 🧺 Sets (Conjuntos)
 
-As atividades foram desenvolvidas com foco em aprendizado e prática da lógica de programação, utilizando JavaScript.
+As atividades foram desenvolvidas com foco em aprendizado e prática da lógica de programação, utilizando typeScript.
 
 ## 📁 Estrutura do Repositório
 
