@@ -13,13 +13,13 @@ As atividades foram desenvolvidas com foco em aprendizado e prática da lógica 
 
 📦 estruturas-de-dados
 ├── 📂 array
-│ └── atividades-array.js
+│ └── atividades-array.ts
 ├── 📂 fila
-│ └── fila.js
+│ └── fila.ts
 ├── 📂 pilha
-│ └── pilha.js
+│ └── pilha.ts
 ├── 📂 set
-│ └── set.js
+│ └── set.ts
 └── README.md
 
 
